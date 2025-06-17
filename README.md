@@ -5,5 +5,14 @@ Technologies Used :
 1. HTML
 2. CSS
 
-It is a responsive web template that is fit for all types of devices and landscape orientation
+It is a responsive web template that is fit for all types of devices and orientations
+
+
+
+
+
+
+
+
+
 
